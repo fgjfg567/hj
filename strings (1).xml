@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Price Compare</string>
+    <string name="search_hint">Search for a product…</string>
+    <string name="cheapest">Lowest price</string>
+    <string name="currency">SAR</string>
+    <string name="no_results">No results</string>
+    <string name="start_hint">Search to compare live prices across stores</string>
+</resources>

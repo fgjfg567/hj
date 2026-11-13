@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">مقارنة الأسعار</string>
+    <string name="search_hint">ابحث عن منتج…</string>
+    <string name="cheapest">الأقل سعراً</string>
+    <string name="currency">ر.س</string>
+    <string name="no_results">لا توجد نتائج</string>
+    <string name="start_hint">ابحث لمقارنة الأسعار مباشرةً بين المتاجر</string>
+</resources>
